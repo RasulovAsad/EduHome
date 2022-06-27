@@ -11,3 +11,16 @@ C:\Users\Asad\source\repos\EduHome\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.Assemb
 C:\Users\Asad\source\repos\EduHome\DAL\bin\Debug\netcoreapp3.1\DAL.runtimeconfig.json
 C:\Users\Asad\source\repos\EduHome\DAL\bin\Debug\netcoreapp3.1\DAL.runtimeconfig.dev.json
 C:\Users\Asad\source\repos\EduHome\DAL\obj\Debug\netcoreapp3.1\DAL.genruntimeconfig.cache
+C:\Users\Asad\Desktop\code academy\EduHome\EduHome\DAL\bin\Debug\netcoreapp3.1\DAL.deps.json
+C:\Users\Asad\Desktop\code academy\EduHome\EduHome\DAL\bin\Debug\netcoreapp3.1\DAL.runtimeconfig.json
+C:\Users\Asad\Desktop\code academy\EduHome\EduHome\DAL\bin\Debug\netcoreapp3.1\DAL.runtimeconfig.dev.json
+C:\Users\Asad\Desktop\code academy\EduHome\EduHome\DAL\bin\Debug\netcoreapp3.1\DAL.dll
+C:\Users\Asad\Desktop\code academy\EduHome\EduHome\DAL\bin\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\Asad\Desktop\code academy\EduHome\EduHome\DAL\obj\Debug\netcoreapp3.1\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asad\Desktop\code academy\EduHome\EduHome\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfoInputs.cache
+C:\Users\Asad\Desktop\code academy\EduHome\EduHome\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfo.cs
+C:\Users\Asad\Desktop\code academy\EduHome\EduHome\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Asad\Desktop\code academy\EduHome\EduHome\DAL\obj\Debug\netcoreapp3.1\DAL.dll
+C:\Users\Asad\Desktop\code academy\EduHome\EduHome\DAL\obj\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\Asad\Desktop\code academy\EduHome\EduHome\DAL\obj\Debug\netcoreapp3.1\DAL.genruntimeconfig.cache
+C:\Users\Asad\Desktop\code academy\EduHome\EduHome\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.AssemblyReference.cache

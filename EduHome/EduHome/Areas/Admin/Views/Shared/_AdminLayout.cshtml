@@ -169,12 +169,12 @@
             <nav class="sidebar sidebar-offcanvas" id="sidebar">
                 <ul class="nav">
                     <li class="nav-item">
-                        <a class="nav-link" href="index.html">
+                        <a class="nav-link" asp-area="admin" asp-controller="dashboard" asp-action="index">
                             <i class="mdi mdi-home menu-icon"></i>
                             <span class="menu-title">Dashboard</span>
                         </a>
                     </li>
-                    <li class="nav-item">
+                    @*<li class="nav-item">
                         <a class="nav-link" data-toggle="collapse" href="#ui-basic" aria-expanded="false" aria-controls="ui-basic">
                             <i class="mdi mdi-circle-outline menu-icon"></i>
                             <span class="menu-title">UI Elements</span>
@@ -198,14 +198,14 @@
                             <i class="mdi mdi-chart-pie menu-icon"></i>
                             <span class="menu-title">Charts</span>
                         </a>
-                    </li>
+                    </li>*@
                     <li class="nav-item">
-                        <a class="nav-link" href="pages/tables/basic-table.html">
+                        <a class="nav-link" asp-area="admin" asp-controller="slider" asp-action="index">
                             <i class="mdi mdi-grid-large menu-icon"></i>
-                            <span class="menu-title">Tables</span>
+                            <span class="menu-title">Slider</span>
                         </a>
                     </li>
-                    <li class="nav-item">
+                    @*<li class="nav-item">
                         <a class="nav-link" href="pages/icons/mdi.html">
                             <i class="mdi mdi-emoticon menu-icon"></i>
                             <span class="menu-title">Icons</span>
@@ -232,7 +232,7 @@
                             <i class="mdi mdi-file-document-box-outline menu-icon"></i>
                             <span class="menu-title">Documentation</span>
                         </a>
-                    </li>
+                    </li>*@
                 </ul>
             </nav>
             <!-- partial -->

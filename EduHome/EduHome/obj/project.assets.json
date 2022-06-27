@@ -5719,11 +5719,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Asad\\source\\repos\\EduHome\\EduHome\\EduHome.csproj",
+      "projectUniqueName": "C:\\Users\\Asad\\Desktop\\code academy\\EduHome\\EduHome\\EduHome\\EduHome.csproj",
       "projectName": "EduHome",
-      "projectPath": "C:\\Users\\Asad\\source\\repos\\EduHome\\EduHome\\EduHome.csproj",
+      "projectPath": "C:\\Users\\Asad\\Desktop\\code academy\\EduHome\\EduHome\\EduHome\\EduHome.csproj",
       "packagesPath": "C:\\Users\\Asad\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Asad\\source\\repos\\EduHome\\EduHome\\obj\\",
+      "outputPath": "C:\\Users\\Asad\\Desktop\\code academy\\EduHome\\EduHome\\EduHome\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5743,11 +5743,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Asad\\source\\repos\\EduHome\\Business\\Business.csproj": {
-              "projectPath": "C:\\Users\\Asad\\source\\repos\\EduHome\\Business\\Business.csproj"
+            "C:\\Users\\Asad\\Desktop\\code academy\\EduHome\\EduHome\\Business\\Business.csproj": {
+              "projectPath": "C:\\Users\\Asad\\Desktop\\code academy\\EduHome\\EduHome\\Business\\Business.csproj"
             },
-            "C:\\Users\\Asad\\source\\repos\\EduHome\\DAL\\DAL.csproj": {
-              "projectPath": "C:\\Users\\Asad\\source\\repos\\EduHome\\DAL\\DAL.csproj"
+            "C:\\Users\\Asad\\Desktop\\code academy\\EduHome\\EduHome\\DAL\\DAL.csproj": {
+              "projectPath": "C:\\Users\\Asad\\Desktop\\code academy\\EduHome\\EduHome\\DAL\\DAL.csproj"
             }
           }
         }

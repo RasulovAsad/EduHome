@@ -29,7 +29,7 @@ namespace Business
             {
                 options.UseSqlServer(_config.GetConnectionString("default"), n =>
                 {
-                    n.MigrationsAssembly("DAL");
+                    n.MigrationsAssembly("Business");
                 });
             });
         }
@@ -44,13 +44,13 @@ namespace Business
 
             app.UseRouting();
 
-            //app.UseEndpoints(endpoints =>
-            //{
-            //    endpoints.MapGet("/", async context =>
-            //    {
-            //        await context.Response.WriteAsync("Hello World!");
-            //    });
-            //});
+            app.UseEndpoints(endpoints =>
+            {
+                endpoints.MapGet("/", async context =>
+                {
+                    await context.Response.WriteAsync("Hello World!");
+                });
+            });
         }
     }
 }

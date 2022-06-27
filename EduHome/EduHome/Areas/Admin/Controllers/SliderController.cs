@@ -1,5 +1,6 @@
 ﻿using Business.Services;
 using DAL.Models;
+using EduHome.ViewModels;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using System;
@@ -65,11 +66,18 @@ namespace EduHome.Areas.Admin.Controllers
         // POST: SliderController/Create
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<ActionResult> Create(Slider data)
+        public async Task<ActionResult> Create(SliderCreate data)
         {
+            Slider slider = new Slider()
+            {
+                Title = data.Title,
+                Body = data.Body,
+                ImageUrl = data.ImageUrl
+            };
+
             try
             {
-                await _sliderService.Create(data);
+                await _sliderService.Create(slider);
                 return RedirectToAction(nameof(Index));
             }
             catch (Exception ex)
